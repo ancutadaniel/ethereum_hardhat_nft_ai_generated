@@ -10,7 +10,7 @@ npx hardhat run --network localhost scripts/deploy.js
 deploy to ropsten
 npx hardhat run --network ropsten scripts/deploy.js
 
-mint the NFTs at this endpoints 
+mint the NFTs at this endpoints
 
 1. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/1.json
 2. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/2.json
@@ -23,3 +23,4 @@ mint the NFTs at this endpoints
 9. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/9.json
 10. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/10.json
 
+Contract deployed address : 0x95ea68Ae9fb3cEaCC86402ECEe09081f4740247d
